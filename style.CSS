@@ -1,0 +1,54 @@
+li{
+    list-style-type: none;
+    display: inline;
+    padding: 10px;
+}
+
+.center{
+    text-align: center;
+}
+
+.top-left{
+    font-size: 15px;
+    margin: 10px;
+    position: fixed;
+    left: 0;
+    top: 10;
+}
+
+.top-right{
+    font-size: 15px;
+    position: fixed;
+    right: 0;
+    top: 0;
+    margin: 10px;
+}
+
+.logo{
+    padding-top: 200px;    
+}
+
+.search_box{
+    justify-content: center;
+}
+
+.search_bar{
+    width: 500px;
+    height: 30px;
+    border-radius: 25px;
+    border: 2px solid #DEDADA;
+}
+
+.search,.lucky{
+    height: 36px;     
+    border-radius: 4px;  
+    border: 1px solid #f2f2f2;
+    font-size: 14px;
+    background-color: #f2f2f2
+    
+}
+
+.search_buttons input{
+    margin: 10px;
+}
+
